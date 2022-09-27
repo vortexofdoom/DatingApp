@@ -455,3 +455,5 @@ $RECYCLE.BIN/
 
 appsettings.json
 API/.editorconfig
+.angulardoc.json
+.vscode/settings.json
